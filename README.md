@@ -1,5 +1,5 @@
-# mastodon-stylebot-css
-Additional css for enhancing the Mastodon experience
+# Mastodon Twitter-alike with Stylebot
+Additional css for enhancing the Mastodon experience.
 
 ## Usage
 1. Download the [Stylebot](https://github.com/ankit/stylebot) browser extension (Chrome, Firefox or Edge)
